@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "samNbdevTemplate2"
+  site-url: "https://nic.github.io/samNbdevTemplate2"
+  description: "template for samnbdev"
+  repo-branch: master
+  repo-url: "https://github.com/nic/samNbdevTemplate2"
